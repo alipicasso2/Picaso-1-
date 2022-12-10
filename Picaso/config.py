@@ -1,5 +1,5 @@
 data = {
-    "token": "MTA1MDQxOTk1MDk3MzYzNjYwOA.GWQSFd.w8MvmZOnqe7agBb-TeUlKUCcTSEbrtRmzmoTBE"
+    "token": ""
 }
 
 ticket_panel = {
